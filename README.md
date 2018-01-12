@@ -11,7 +11,8 @@ The phone screen is too small for several people to watch videos on a single mob
 
 ### 3.Bump module
   * The decision of mobile's comparative location
-
+### 4.Database module
+  * Use database to synchronize parameter of the video.
 
 ## Resilient to failures
 Our app is resilient to network connection failure. When the network fails, it will pop up a notification suggesting the user
